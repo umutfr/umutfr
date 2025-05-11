@@ -1,7 +1,7 @@
 <!-- Enhanced README by umutfr -->
 
 <h1 align="center">🧑‍💻 Umut / umutfr</h1>
-<p align="center"><i>"It's not about writing code, it's about creating solutions."</i></p>
+<p align="center"><i>"Ölüm, ölüm dediğin nedir ki gülüm, ben senin için yaşamayı göze almışım."</i></p>
 
 ---
 
@@ -41,9 +41,10 @@
 ---
 
 ### 🎧 Now Playing
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Doom&width=350" alt="Now Playing on Spotify" />
+<p align="left" style="display: flex; align-items: center;">
+  <strong style="font-size:14px; vertical-align: middle;">Mor ve Ötesi - Cambaz</strong>
 </p>
+
 
 ---
 
@@ -61,10 +62,3 @@
   <a href="" target="_blank">💬 Discord</a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umutfr&style=flat-square" alt="Profile views" />
-  &nbsp; &nbsp;
-  <sub>Last updated: May 2025 — README handcrafted by umutfr 🛠️</sub>
-</p>
