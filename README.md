@@ -41,10 +41,13 @@
 
 ---
 
-### 🎧 Favorite Song/s
+### 🎧 Favorite Artist/A
 
 ```txt
-Mor ve Ötesi - Cambaz
+Kayra
+Rota
+Mor ve Ötesi
+Metallica
 ```
 
 ---
