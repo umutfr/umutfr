@@ -6,23 +6,24 @@
 ---
 
 ### 🌌 About Me
+
+```txt
 - 🎓 Computer Programming student  
 - ⚒️ Passionate about full-stack development  
 - 🧪 Explorer of new tech stacks  
 - 🔭 Working with `.NET`, `React`, `Next.js`, `SQL`, `Linux`  
 - 🎯 Goal: Build clean & sustainable software  
-
+```
 ---
 
 
+### ⚡ What I Work With
 
-### ⚡ Languages Used in My Project
-- **C#**
-- **JavaScript**
-- **SQL**
-- **HTML/CSS**
-
-
+```txt
+🧠 Languages I Code In → C#, JavaScript, SQL, Bash, HTML/CSS
+🛠️ Technologies I Use → .NET, React, Tailwind, Next.js, Git, Linux
+🚀 Currently Learning  → Docker, Entity Framework Core
+```
 ---
 
 
@@ -40,11 +41,11 @@
 
 ---
 
-### 🎧 Now Playing
-<p align="left" style="display: flex; align-items: center;">
-  <strong style="font-size:14px; vertical-align: middle;">Mor ve Ötesi - Cambaz</strong>
-</p>
+### 🎧 Favorite Song/s
 
+```txt
+Mor ve Ötesi - Cambaz
+```
 
 ---
 
