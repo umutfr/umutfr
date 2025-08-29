@@ -56,9 +56,7 @@ Led Zeppelin
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umutfr&theme=tokyonight&row=1&column=4" alt="Trophies" />
-</p>
+
 
 ---
 
