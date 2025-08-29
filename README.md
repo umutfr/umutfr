@@ -1,7 +1,7 @@
 <!-- Enhanced README by umutfr -->
 
 <h1 align="center">🧑‍💻 Umut / umutfr</h1>
-<p align="center"><i>"Ölüm, ölüm dediğin nedir ki gülüm, ben senin için yaşamayı göze almışım."</i></p>
+<p align="center"><i>"Committed to solving problems and growing with every challenge."</i></p>
 
 ---
 
