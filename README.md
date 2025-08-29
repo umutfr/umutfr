@@ -8,7 +8,7 @@
 ### 🌌 About Me
 
 ```txt
-- 🎓 Computer Programming student  
+- 🎓 Computer Programming
 - ⚒️ Passionate about full-stack development  
 - 🧪 Explorer of new tech stacks  
 - 🔭 Working with `.NET`, `React`, `Next.js`, `SQL`, `Linux`  
@@ -28,7 +28,7 @@
 ```txt
 🧠 Languages I Code In → C#, JavaScript, SQL, Bash, HTML/CSS
 🛠️ Technologies I Use → .NET, React, Tailwind, Next.js, Git, Linux
-🚀 Currently Learning  → Docker, Entity Framework Core
+🚀 Currently Learning  → Entity Framework Core
 ```
 ---
 
@@ -49,10 +49,8 @@
 ### 🎧 Favorite Artist/A
 
 ```txt
-Kayra
-Rota
-Mor ve Ötesi
-Metallica
+Pink Floyd
+Led Zeppelin
 ```
 
 ---
