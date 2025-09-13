@@ -26,7 +26,7 @@
 ### ⚡ What I Work With
 
 ```txt
-🧠 Languages I Code In → C#, JavaScript, SQL, Bash, HTML/CSS
+🧠 Languages I Code In → C#, JavaScript, SQL, TypeScript, HTML/CSS
 🛠️ Technologies I Use → .NET, React, Tailwind, Next.js, Git, Linux
 🚀 Currently Learning  → Entity Framework Core
 ```
