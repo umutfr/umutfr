@@ -62,8 +62,7 @@ Led Zeppelin
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="" target="_blank">🔗 Blog</a> •
   <a href="https://umutfr.dev" target="_blank">💼 Portfolio</a> •
-  <a href="" target="_blank">💬 Discord</a>
+  <a href="https://www.linkedin.com/in/umut41/" target="_blank">👨‍💼 LinkedIn</a>
 </p>
 
